@@ -3,7 +3,7 @@
 REST API приложение для синхронизации биржевой стоимости акций топ 20 американский компаний.
 
 #### Стек технологий: 
-Java 17, REST, Postgres, Hibernate, Spring Data JPA, Spring MVC, Maven, Git
+Java 17, REST, PostgreSQL, Hibernate, Spring Data JPA, Spring MVC, Maven, Git
 
 ---
 
